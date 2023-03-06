@@ -1,0 +1,69 @@
+__Lrdata 33 FFFFFFD0 DATA
+__Hrbss 33 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 76 0 CODE
+__Birdata 3 FFFFFFD0 DATA
+__Hirdata 33 FFFFFFD0 DATA
+__Lirdata 33 FFFFFFD0 DATA
+powerup CB 0 CODE
+__Htext 33 0
+__Ltext 33 0
+strx_copy 8C 0 CODE
+__Hcode 33 0
+__Lcode 33 0
+__Hdata 111 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 33 0 XDATA
+__Hbss 33 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 33 0 XDATA
+__Lstrings 100 0 CODE
+str_xcopy 76 0 CODE
+__S0 111 0
+start1 B7 0 CODE
+__Hnvram 33 0 XDATA
+small_model 1 0
+__Lnvram 33 0 XDATA
+__Hheap 33 0 XDATA
+__Lheap 33 0 XDATA
+_main 3 0 CODE
+str_copy 8C 0 CODE
+?a_main 20 0 DATA
+_exit C8 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+strx_load 8C 0 CODE
+__Brbit 20 20 BITSEG
+str_load 8C 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 33 0 DATA
+__Hidata 33 0 DATA
+__Lidata 33 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFD0 DATA
+__Hrdata 33 FFFFFFD0 DATA
+%segments
+vectors 0 CD CODE
+rbit 0 12 BITSEG
+data 100 110 CODE
+%locals
+C:\Users\falin\Desktop\PRACTI~1\nado\17831~1\main_0.obj
+C:\Users\falin\Desktop\PRACTI~1\nado\17831~1\main.c
+3 3 0 CODE
+17 5 0 CODE
+30 14 0 CODE
+33 23 0 CODE
+37 26 0 CODE
+40 35 0 CODE
+48 3C 0 CODE
+49 46 0 CODE
+37 63 0 CODE
+35 6F 0 CODE
+56 71 0 CODE
+57 73 0 CODE
